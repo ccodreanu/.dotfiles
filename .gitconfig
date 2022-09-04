@@ -1,0 +1,8 @@
+[user]
+	email = cc.catalincodreanu@gmail.com
+	nam = Cata Codreanu
+[alias]
+	c = commit
+	p = push
+	co = checkout
+	ap = add -p
