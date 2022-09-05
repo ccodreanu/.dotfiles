@@ -8,3 +8,6 @@ source $ZSH/oh-my-zsh.sh
 
 # Brew
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+
+# Aliases
+alias vim=nvim
